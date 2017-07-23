@@ -1,0 +1,9 @@
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\bin\Debug\netcoreapp1.1\NetCoreSwaggerProto.deps.json
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\bin\Debug\netcoreapp1.1\NetCoreSwaggerProto.runtimeconfig.json
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\bin\Debug\netcoreapp1.1\NetCoreSwaggerProto.runtimeconfig.dev.json
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\bin\Debug\netcoreapp1.1\NetCoreSwaggerProto.dll
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\bin\Debug\netcoreapp1.1\NetCoreSwaggerProto.pdb
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\obj\Debug\netcoreapp1.1\NetCoreSwaggerProto.csprojResolveAssemblyReference.cache
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\obj\Debug\netcoreapp1.1\NetCoreSwaggerProto.AssemblyInfo.cs
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\obj\Debug\netcoreapp1.1\NetCoreSwaggerProto.dll
+C:\source\Repos\NetCoreSwaggerProto\NetCoreSwaggerProto\obj\Debug\netcoreapp1.1\NetCoreSwaggerProto.pdb
